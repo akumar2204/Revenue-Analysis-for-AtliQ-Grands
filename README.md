@@ -33,6 +33,9 @@ Data-driven decision-making for AtliQ Grands' management team.
 Clear visualization of revenue trends and key performance indicators (KPIs).
 Identification of areas to optimize and improve revenue streams.
 
+![Screenshot 2024-12-21 173120](https://github.com/user-attachments/assets/e1846828-b0a2-4ef0-836b-aad4cfcd0804)
+
+
 
 Conclusion
 This project equips AtliQ Grands with the necessary tools and insights to make informed business decisions, regain market share, and drive revenue growth effectively.
