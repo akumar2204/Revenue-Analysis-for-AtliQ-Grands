@@ -34,6 +34,7 @@ Clear visualization of revenue trends and key performance indicators (KPIs).
 Identification of areas to optimize and improve revenue streams.
 
 ![Screenshot 2024-12-21 173120](https://github.com/user-attachments/assets/e1846828-b0a2-4ef0-836b-aad4cfcd0804)
+![Screenshot 2024-12-21 173252](https://github.com/user-attachments/assets/89f76ebc-2bfa-4092-97b4-652b1a315503)
 
 
 
